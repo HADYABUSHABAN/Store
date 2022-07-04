@@ -1,0 +1,33 @@
+
+int x = 123;
+
+String text = 'hady';
+
+bool hasChildren = false;
+
+heIsGood;
+he_is_good;
+
+class Person {
+    int identity, age;
+    String name;
+    bool hasChildren;
+
+    Person();
+}
+context(){
+    Person person1 = Person();
+    person1.name = 'hady';
+    person1.age = 16;
+    person1.hasChildren = false;
+    Person person2 = Person();
+    person2.name = 'Mohammad';
+    Person person3;
+
+    Car car1 = Car();
+}
+class Car{
+    int wheelsNumber;
+    String model;
+    int number;
+}
